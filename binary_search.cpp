@@ -18,7 +18,7 @@ using namespace std;
         //if item is smaller than mid
             high=mid-1;
     }
-    //element not present
+    //item not present
     return -1;
 }
     
